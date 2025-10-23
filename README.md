@@ -1,7 +1,7 @@
 # Air Canada Baggage Tracking — 5‑Point Scanning Project (2022–2025)
 
-**Author:** [Your Name]  
-**Role:** Project Manager / Agile Lead  
+**Author:** Kindhujan Mahendiran  
+**Role:** Customer Excellance Manager / Operation Improvement  
 **Repository Purpose:** Demonstrate end‑to‑end project management, Agile artifacts, analytics, and stakeholder coordination for a real‑world innovation case study.
 
 ---
